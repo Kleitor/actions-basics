@@ -1,4 +1,4 @@
-
+```yaml
 name: hello world
 
       on:
@@ -14,3 +14,4 @@ name: hello world
             - uses: actions/checkout@v2
             - name: run echo
               run: echo "Hello, world!"
+```
